@@ -1,0 +1,55 @@
+evaluation for results-base
+evaluation for results-base
+Bleu1 score is 0.2240146290373651
+Bleu2 score is 7.060092740143201e-155
+Bleu4 score is 1.253364583620043e-231
+Bert score is {'precision': [0.7833266258239746], 'recall': [0.9290288686752319], 'f1': [0.835898756980896], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.11(hug_trans=4.12.3)'}
+Greedy embedding match is CorpusLevelScore(mean=0.6738664211165957, confidence_interval=1.6873239275027017e-05, standard_deviation=0.05485524523493477)
+Extrema embedding match is CorpusLevelScore(mean=0.7914760898919112, confidence_interval=2.7069348538164917e-05, standard_deviation=0.0880030045332586)
+Average embedding match is CorpusLevelScore(mean=0.9702940725878161, confidence_interval=7.66024703664475e-06, standard_deviation=0.024903619447704257)
+
+evaluation for results-dialog_acts
+Bleu1 score is 0.2296553182162897
+Bleu2 score is 7.148426715230557e-155
+Bleu4 score is 1.2611810898326757e-231
+Bert score is {'precision': [0.7866349816322327], 'recall': [0.912998378276825], 'f1': [0.8315812349319458], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.11(hug_trans=4.12.3)'}
+Greedy embedding match is CorpusLevelScore(mean=0.6731547822341345, confidence_interval=1.6534794570396242e-05, standard_deviation=0.05375495459314534)
+Extrema embedding match is CorpusLevelScore(mean=0.7921630689827558, confidence_interval=2.7605776682654213e-05, standard_deviation=0.08974694337850646)
+Average embedding match is CorpusLevelScore(mean=0.9696991399788887, confidence_interval=7.768871450885987e-06, standard_deviation=0.0252567596352273)
+
+evaluation for results-slots
+Bleu1 score is 0.23187758818173806
+Bleu2 score is 7.182929484805567e-155
+Bleu4 score is 1.264221049664255e-231
+Bert score is {'precision': [0.7815510034561157], 'recall': [0.9232286214828491], 'f1': [0.8294802904129028], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.11(hug_trans=4.12.3)'}
+Greedy embedding match is CorpusLevelScore(mean=0.6730182165215307, confidence_interval=1.683528880742841e-05, standard_deviation=0.05473186749027236)
+Extrema embedding match is CorpusLevelScore(mean=0.7927493324725253, confidence_interval=2.7464343601701606e-05, standard_deviation=0.08928714154594011)
+Average embedding match is CorpusLevelScore(mean=0.969639123147835, confidence_interval=8.007022086654001e-06, standard_deviation=0.02603099221232617)
+
+evaluation for results-belief
+Bleu1 score is 0.23237921162911496
+Bleu2 score is 7.1906947442959275e-155
+Bleu4 score is 1.2649042216721491e-231
+Bert score is {'precision': [0.7864886522293091], 'recall': [0.9240829348564148], 'f1': [0.8326890468597412], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.11(hug_trans=4.12.3)'}
+Greedy embedding match is CorpusLevelScore(mean=0.6739303290638217, confidence_interval=1.7236410295404577e-05, standard_deviation=0.056035921633835695)
+Extrema embedding match is CorpusLevelScore(mean=0.7935395083051858, confidence_interval=2.7479795452111923e-05, standard_deviation=0.08933737582696795)
+Average embedding match is CorpusLevelScore(mean=0.9698160477872928, confidence_interval=8.068811298548954e-06, standard_deviation=0.026231870201200987)
+
+evaluation for results-keywords
+Bleu1 score is 0.2306640061731763
+Bleu2 score is 7.164108110815119e-155
+Bleu4 score is 1.2625636489656142e-231
+Bert score is {'precision': [0.7890101671218872], 'recall': [0.9138979911804199], 'f1': [0.8340759873390198], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.11(hug_trans=4.12.3)'}
+Greedy embedding match is CorpusLevelScore(mean=0.6728653445292653, confidence_interval=1.6979417817917916e-05, standard_deviation=0.05520043384478212)
+Extrema embedding match is CorpusLevelScore(mean=0.7930981283344112, confidence_interval=2.7310065056451208e-05, standard_deviation=0.08878557884678934)
+Average embedding match is CorpusLevelScore(mean=0.9692736314385756, confidence_interval=8.375660250263806e-06, standard_deviation=0.02722944240544948)
+
+evaluation for results-kg
+Bleu1 score is 0.23210443802443328
+Bleu2 score is 7.1864422177575225e-155
+Bleu4 score is 1.264530138605056e-231
+Bert score is {'precision': [0.7884546518325806], 'recall': [0.9144326448440552], 'f1': [0.8362886309623718], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.11(hug_trans=4.12.3)'}
+Greedy embedding match is CorpusLevelScore(mean=0.6726192275794561, confidence_interval=1.709454522049023e-05, standard_deviation=0.05557471538008354)
+Extrema embedding match is CorpusLevelScore(mean=0.7919694301759601, confidence_interval=2.753760373847682e-05, standard_deviation=0.08952531174570118)
+Average embedding match is CorpusLevelScore(mean=0.9691854330649581, confidence_interval=7.93207130972929e-06, standard_deviation=0.025787325706936242)
+
