@@ -403,27 +403,4 @@ SIDRG Pipeline:
 7. Generate Evaluation Report
 ```
 
-## License
 
-Please refer to the LICENSE file in the repository for usage terms.
-
-## Contact & Contributions
-
-For questions, issues, or suggestions:
-- Open an issue on GitHub
-- Check existing issues first
-- Include relevant code snippets and error messages
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{joshi2024sidrg,
-  title={Saliency infused dialogue response generation: Improving task-oriented text generation using feature attribution},
-  author={Joshi, Ratnesh Kumar and Chatterjee, Arindam and Ekbal, Asif},
-  journal={Expert Systems with Applications},
-  pages={124283},
-  year={2024}
-}
-```
