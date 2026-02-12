@@ -1,13 +1,9 @@
-# SIDRG
+### Code repository for the paper:
 
-Auto-created from local folder SIDRG
+    Saliency-infused dialogue response generation: Improving task-oriented text generation using feature attribution.
 
-## Setup
+    Authors: Joshi, Ratnesh Kumar, Arindam Chatterjee, and Asif Ekbal
 
-```bash
-pip install -r requirements.txt
-```
+    Journal: Expert Systems with Applications (2024): 124283. (h-5 index = 165)
 
-## Notes
-
-Auto-created by `create_and_push_repos.py`.
+    Link: https://www.researchgate.net/publication/380946482_Saliency_infused_dialogue_response_generation_Improving_task_oriented_text_generation_using_feature_attribution
